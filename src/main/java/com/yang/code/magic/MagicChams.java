@@ -1,5 +1,6 @@
 package com.yang.code.magic;
 
+import javax.swing.tree.TreeNode;
 import java.util.Scanner;
 
 /**
