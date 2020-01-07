@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-queue-code/src/test/java/com/yang/learnqueuecode/LearnQueueCodeApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/SortStackByOneStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/animal/DogCatQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/animal/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/animal/PetEnterQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -27,6 +12,7 @@
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/learn-stack-code/target/" />
     <ignored path="$PROJECT_DIR$/learn-queue-code/target/" />
+    <ignored path="$PROJECT_DIR$/learn-linked-code/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +24,27 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
+            <state relative-caret-position="658">
               <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,6 +84,7 @@
         <option value="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/animal/DogCatQueue.java" />
         <option value="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/SortStackByOneStack.java" />
         <option value="$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java" />
+        <option value="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java" />
       </list>
     </option>
   </component>
@@ -125,9 +125,54 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="same" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +180,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578321000201" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578412648613" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github_good_project_learn/spring-boot-master" />
@@ -245,6 +290,13 @@
       <kind value="DIRECTORY" />
       <method v="2" />
     </configuration>
+    <configuration name="LearnLinkedCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn-linked-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.learnlinkedcode.LearnLinkedCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnQueueCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="learn-queue-code" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.learnqueuecode.LearnQueueCodeApplication" />
@@ -287,7 +339,8 @@
       <workItem from="1578210469717" duration="1057000" />
       <workItem from="1578212480015" duration="3238000" />
       <workItem from="1578216131209" duration="1000" />
-      <workItem from="1578318904496" duration="2094000" />
+      <workItem from="1578318904496" duration="2757000" />
+      <workItem from="1578411862726" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -296,14 +349,22 @@
       <option name="project" value="LOCAL" />
       <updated>1578209594538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: commit queue learn commit.">
+      <created>1578321055668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578321055669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24658000" />
+    <option name="totallyTimeSpent" value="26105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -313,7 +374,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Alibaba Cloud Explorer" order="7" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.32991204" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32697946" />
@@ -333,6 +393,7 @@
       <window_info anchor="bottom" id="Alibaba Cloud View" order="16" />
       <window_info anchor="bottom" id="Spring" order="17" />
       <window_info anchor="bottom" id="Gradle View" order="18" />
+      <window_info anchor="bottom" id="Run Dashboard" order="19" weight="0.32991204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -354,7 +415,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:commit stack code learn." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:commit stack code learn." />
+    <MESSAGE value="feat: commit queue learn commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: commit queue learn commit." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -538,10 +600,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
+        <state relative-caret-position="658">
           <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
