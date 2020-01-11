@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SingleNodeRemove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
+            <state relative-caret-position="1175">
               <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -37,15 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
+            <state relative-caret-position="583">
               <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding>
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SingleNodeRemove.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -85,6 +87,7 @@
         <option value="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/SortStackByOneStack.java" />
         <option value="$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java" />
         <option value="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java" />
+        <option value="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SingleNodeRemove.java" />
       </list>
     </option>
   </component>
@@ -125,8 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +183,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578412648613" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578494051946" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github_good_project_learn/spring-boot-master" />
@@ -340,7 +343,8 @@
       <workItem from="1578212480015" duration="3238000" />
       <workItem from="1578216131209" duration="1000" />
       <workItem from="1578318904496" duration="2757000" />
-      <workItem from="1578411862726" duration="784000" />
+      <workItem from="1578411862726" duration="1586000" />
+      <workItem from="1578739984194" duration="561000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -356,15 +360,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578321055669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: commit linkedList learn code.">
+      <created>1578412677127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578412677127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26105000" />
+    <option name="totallyTimeSpent" value="27468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -416,7 +426,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:commit stack code learn." />
     <MESSAGE value="feat: commit queue learn commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: commit queue learn commit." />
+    <MESSAGE value="feat: commit linkedList learn code." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: commit linkedList learn code." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -600,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-queue-code/src/main/java/com/yang/queue/book/ArrMaxQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
+        <state relative-caret-position="1175">
           <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -610,12 +621,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SomeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
+        <state relative-caret-position="583">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SingleNodeRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>
