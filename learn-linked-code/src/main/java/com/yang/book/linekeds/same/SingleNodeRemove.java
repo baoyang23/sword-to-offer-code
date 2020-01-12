@@ -2,7 +2,7 @@ package com.yang.book.linekeds.same;
 
 /**
  *  在 单链表中删除 倒数第k个节点
- *
+ *  单个链表操作记录
  * @Author: Mu_Yi
  * @Date: 2020/1/11 18:57
  * @Version 1.0

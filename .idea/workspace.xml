@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-linked-code/src/main/java/com/yang/book/linekeds/same/SingleNodeRemove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -137,41 +136,6 @@
               <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-linked-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="same" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -183,7 +147,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578494051946" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578836844325" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github_good_project_learn/spring-boot-master" />
@@ -344,7 +308,7 @@
       <workItem from="1578216131209" duration="1000" />
       <workItem from="1578318904496" duration="2757000" />
       <workItem from="1578411862726" duration="1586000" />
-      <workItem from="1578739984194" duration="561000" />
+      <workItem from="1578739984194" duration="3842000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -367,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578412677127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: commit linkedRemove data code.">
+      <created>1578740567146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578740567146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27468000" />
+    <option name="totallyTimeSpent" value="30749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -427,7 +398,8 @@
     <MESSAGE value="feat:commit stack code learn." />
     <MESSAGE value="feat: commit queue learn commit." />
     <MESSAGE value="feat: commit linkedList learn code." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: commit linkedList learn code." />
+    <MESSAGE value="feat: commit linkedRemove data code." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: commit linkedRemove data code." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
