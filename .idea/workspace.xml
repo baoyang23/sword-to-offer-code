@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/array/MergeTwoArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/array/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/array/SplicingStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/LearnStrCodeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrToLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-str-code/src/test/java/com/iyang/learnstrcode/LearnStrCodeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/leetcode/StackFind132pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/leetcode/VaildCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseOnlyLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,26 +24,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="793">
-              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrToLowerCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,6 +68,9 @@
         <option value="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/array/SplicingStr.java" />
         <option value="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseWords.java" />
         <option value="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrToLowerCase.java" />
+        <option value="$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseOnlyLetters.java" />
+        <option value="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/leetcode/VaildCharacter.java" />
+        <option value="$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/leetcode/StackFind132pattern.java" />
       </list>
     </option>
   </component>
@@ -136,6 +106,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,56 +114,10 @@
               <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-str-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-str-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-str-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-str-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-str-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learnstrcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sword-to-offer-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sword-to-offer-code" type="462c0819:PsiDirectoryNode" />
-              <item name="learn-str-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learnstrcode" type="462c0819:PsiDirectoryNode" />
-              <item name="str" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -230,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrToLowerCase">
+  <component name="RunManager" selected="Application.StackFind132pattern">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="sword-to-offer-code" />
       <working_directory value="$PROJECT_DIR$" />
@@ -246,38 +171,38 @@
       <kind value="DIRECTORY" />
       <method v="2" />
     </configuration>
-    <configuration name="MergeTwoArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yang.stack.book.array.MergeTwoArr" />
-      <module name="learn-stack-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yang.stack.book.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yang.stack.book.array.RemoveDuplicates" />
-      <module name="learn-stack-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yang.stack.book.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SplicingStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.stack.book.array.SplicingStr" />
       <module name="learn-stack-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yang.stack.book.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackFind132pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.stack.book.leetcode.StackFind132pattern" />
+      <module name="learn-stack-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.stack.book.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrReverseOnlyLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learnstrcode.str.StrReverseOnlyLetters" />
+      <module name="learn-str-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iyang.learnstrcode.str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackFind132pattern" />
+        <item itemvalue="Application.StrReverseOnlyLetters" />
         <item itemvalue="Application.StrToLowerCase" />
         <item itemvalue="Application.StrReverseWords" />
         <item itemvalue="Application.SplicingStr" />
-        <item itemvalue="Application.MergeTwoArr" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +297,8 @@
       <workItem from="1578739984194" duration="3842000" />
       <workItem from="1591011662605" duration="408000" />
       <workItem from="1591012115852" duration="4382000" />
-      <workItem from="1591095455913" duration="1466000" />
+      <workItem from="1591095455913" duration="2747000" />
+      <workItem from="1591183539824" duration="2743000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -409,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591013254944</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: 提交字符串简单联系">
+      <created>1591099140730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591099140730</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37005000" />
+    <option name="totallyTimeSpent" value="41029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-4" width="1853" height="1084" extended-state="6" />
@@ -477,7 +410,8 @@
     <MESSAGE value="feat: commit linkedList learn code." />
     <MESSAGE value="feat: commit linkedRemove data code." />
     <MESSAGE value="feat: 提交数组联系代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交数组联系代码" />
+    <MESSAGE value="feat: 提交字符串简单联系" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交字符串简单联系" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -743,7 +677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
+        <state relative-caret-position="1102">
           <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
         </state>
       </provider>
@@ -752,6 +686,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrReverseOnlyLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/leetcode/StackFind132pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/leetcode/VaildCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

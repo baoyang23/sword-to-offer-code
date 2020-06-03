@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sword-to-offer-code" />
-        <module name="learn-str-code" />
         <module name="learn-stack-code" />
-        <module name="learn-linked-code" />
+        <module name="learn-str-code" />
         <module name="learn-queue-code" />
+        <module name="learn-linked-code" />
       </profile>
     </annotationProcessing>
   </component>
