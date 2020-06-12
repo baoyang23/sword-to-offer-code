@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/LearnDynamicProgrammingCodeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/ClimbStairsNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/MinCostClimbingStairsNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/str/IsSubsequenceStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/test/java/com/iyang/learndynamicprogrammingcode/LearnDynamicProgrammingCodeApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,52 +22,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MaxSubArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/str/IsSubsequenceStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/NumArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-              <folding>
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/ClimbStairsNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/MinCostClimbingStairsNumber.java">
+        <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="228">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -142,6 +85,9 @@
         <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/NumArray.java" />
         <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/ClimbStairsNumber.java" />
         <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/MinCostClimbingStairsNumber.java" />
+        <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MassageArr.java" />
+        <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MaxProfitArray.java" />
+        <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java" />
       </list>
     </option>
   </component>
@@ -177,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +136,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinCostClimbingStairsNumber">
+  <component name="RunManager" selected="Application.DeleteAndEarnArr">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="sword-to-offer-code" />
       <working_directory value="$PROJECT_DIR$" />
@@ -255,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSubsequenceStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iyang.learndynamicprogrammingcode.str.IsSubsequenceStr" />
+    <configuration name="DeleteAndEarnArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learndynamicprogrammingcode.array.DeleteAndEarnArr" />
       <module name="learn-dynamic-programming-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.iyang.learndynamicprogrammingcode.str.*" />
+          <option name="PATTERN" value="com.iyang.learndynamicprogrammingcode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,8 +214,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iyang.learndynamicprogrammingcode.array.MaxSubArray" />
+    <configuration name="MassageArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learndynamicprogrammingcode.array.MassageArr" />
+      <module name="learn-dynamic-programming-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iyang.learndynamicprogrammingcode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learndynamicprogrammingcode.array.MaxProfitArray" />
       <module name="learn-dynamic-programming-code" />
       <extension name="coverage">
         <pattern>
@@ -287,19 +246,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iyang.learndynamicprogrammingcode.numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackFind132pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yang.stack.book.leetcode.StackFind132pattern" />
-      <module name="learn-stack-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yang.stack.book.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteAndEarnArr" />
+        <item itemvalue="Application.MaxProfitArray" />
+        <item itemvalue="Application.MassageArr" />
         <item itemvalue="Application.MinCostClimbingStairsNumber" />
         <item itemvalue="Application.ClimbStairsNumber" />
-        <item itemvalue="Application.IsSubsequenceStr" />
-        <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.StackFind132pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +325,9 @@
       <workItem from="1591183539824" duration="3641000" />
       <workItem from="1591353518362" duration="3112000" />
       <workItem from="1591580969666" duration="611000" />
-      <workItem from="1591701618410" duration="4243000" />
+      <workItem from="1591701618410" duration="4878000" />
+      <workItem from="1591787635840" duration="3211000" />
+      <workItem from="1591961278452" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -430,11 +378,25 @@
       <option name="project" value="LOCAL" />
       <updated>1591186502342</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: 提交动态规划练习">
+      <created>1591706549555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591706549556</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: 提交动态规划练习">
+      <created>1591791757174</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591791757174</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49893000" />
+    <option name="totallyTimeSpent" value="56035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-4" width="1853" height="1084" extended-state="6" />
@@ -449,7 +411,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.22551021" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.22551021" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +419,7 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.43201134" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008301" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013835" side_tool="true" weight="0.22551021" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4991699" weight="0.32959184" />
@@ -471,7 +433,6 @@
       <window_info anchor="bottom" id="Jelastic" order="21" />
       <window_info anchor="bottom" id="Run with VisualVM" order="22" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="23" />
-      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,6 +449,7 @@
       <window_info anchor="right" id="CodeStream" order="13" />
       <window_info anchor="right" id="Word Book" order="14" side_tool="true" />
       <window_info anchor="right" id="SciView" order="15" />
+      <window_info anchor="right" id="Key Promoter X" order="16" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +463,8 @@
     <MESSAGE value="feat: 提交数组联系代码" />
     <MESSAGE value="feat: 提交字符串简单联系" />
     <MESSAGE value="feat: 提交Stack练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交Stack练习" />
+    <MESSAGE value="feat: 提交动态规划练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交动态规划练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -818,15 +781,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/str/IsSubsequenceStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -834,24 +797,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding>
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/ClimbStairsNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
+        <state relative-caret-position="1045">
           <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/numbers/MinCostClimbingStairsNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="399">
           <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MassageArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MaxProfitArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
         </state>
       </provider>
     </entry>
