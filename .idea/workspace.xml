@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/LearnPointCodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindPairsPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-point-code/src/test/java/com/iyang/learnpointcode/LearnPointCodeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/src/main/java/com/iyang/learnsortcode/LearnSortCodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-sort-code/src/test/java/com/iyang/learnsortcode/LearnSortCodeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,6 +37,8 @@
     <ignored path="$PROJECT_DIR$/learn-linked-code/target/" />
     <ignored path="$PROJECT_DIR$/learn-str-code/target/" />
     <ignored path="$PROJECT_DIR$/learn-dynamic-programming-code/target/" />
+    <ignored path="$PROJECT_DIR$/learn-sort-code/target/" />
+    <ignored path="$PROJECT_DIR$/learn-point-code/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +50,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="356">
               <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindPairsPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="755">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -88,6 +142,9 @@
         <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MassageArr.java" />
         <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/MaxProfitArray.java" />
         <option value="$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java" />
+        <option value="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindPairsPoint.java" />
+        <option value="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java" />
+        <option value="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java" />
       </list>
     </option>
   </component>
@@ -267,9 +324,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnPointCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn-point-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iyang.learnpointcode.LearnPointCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnQueueCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="learn-queue-code" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.learnqueuecode.LearnQueueCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnSortCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn-sort-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iyang.learnsortcode.LearnSortCodeApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -327,7 +398,7 @@
       <workItem from="1591580969666" duration="611000" />
       <workItem from="1591701618410" duration="4878000" />
       <workItem from="1591787635840" duration="3211000" />
-      <workItem from="1591961278452" duration="2296000" />
+      <workItem from="1591961278452" duration="7876000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -392,11 +463,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591791757174</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: 提交动态规划练习">
+      <created>1591966799119</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591966799119</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56035000" />
+    <option name="totallyTimeSpent" value="61615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-4" width="1853" height="1084" extended-state="6" />
@@ -411,7 +489,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.22551021" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" weight="0.22551021" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -830,8 +908,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="356">
           <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindPairsPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>

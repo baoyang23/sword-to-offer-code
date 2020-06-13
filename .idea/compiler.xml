@@ -9,7 +9,9 @@
         <module name="learn-queue-code" />
         <module name="learn-str-code" />
         <module name="learn-dynamic-programming-code" />
+        <module name="learn-sort-code" />
         <module name="sword-to-offer-code" />
+        <module name="learn-point-code" />
         <module name="learn-stack-code" />
         <module name="learn-linked-code" />
       </profile>
@@ -19,7 +21,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="learn-dynamic-programming-code" options="-parameters" />
       <module name="learn-linked-code" options="-parameters" />
+      <module name="learn-point-code" options="-parameters" />
       <module name="learn-queue-code" options="-parameters" />
+      <module name="learn-sort-code" options="-parameters" />
       <module name="learn-stack-code" options="-parameters" />
       <module name="learn-str-code" options="-parameters" />
     </option>
