@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8261098e-42e3-44aa-874b-38489d2ea642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-point-code/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/LearnPointCodeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindPairsPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-point-code/src/test/java/com/iyang/learnpointcode/LearnPointCodeApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/src/main/java/com/iyang/learnsortcode/LearnSortCodeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-sort-code/src/test/java/com/iyang/learnsortcode/LearnSortCodeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/LearnTreeCodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/ChildRenNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/Postorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-tree-code/src/test/java/com/iyang/learntreecode/LearnTreeCodeApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -39,6 +32,7 @@
     <ignored path="$PROJECT_DIR$/learn-dynamic-programming-code/target/" />
     <ignored path="$PROJECT_DIR$/learn-sort-code/target/" />
     <ignored path="$PROJECT_DIR$/learn-point-code/target/" />
+    <ignored path="$PROJECT_DIR$/learn-tree-code/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
+            <state relative-caret-position="399">
               <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
             </state>
           </provider>
@@ -71,17 +65,84 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
+            <state relative-caret-position="1748">
               <caret line="92" selection-start-line="92" selection-end-line="92" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
+            <state relative-caret-position="739">
               <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsBalanced.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/PathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsSymmetric.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/Postorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/ChildRenNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsTreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +206,12 @@
         <option value="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindPairsPoint.java" />
         <option value="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java" />
         <option value="$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java" />
+        <option value="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsTreeNode.java" />
+        <option value="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsBalanced.java" />
+        <option value="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/PathSum.java" />
+        <option value="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsSymmetric.java" />
+        <option value="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/ChildRenNode.java" />
+        <option value="$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/Postorder.java" />
       </list>
     </option>
   </component>
@@ -180,7 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +259,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +270,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578836844325" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipse_github_project/netty" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -359,6 +426,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnTreeCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn-tree-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iyang.learntreecode.LearnTreeCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DeleteAndEarnArr" />
@@ -398,7 +472,9 @@
       <workItem from="1591580969666" duration="611000" />
       <workItem from="1591701618410" duration="4878000" />
       <workItem from="1591787635840" duration="3211000" />
-      <workItem from="1591961278452" duration="7876000" />
+      <workItem from="1591961278452" duration="8642000" />
+      <workItem from="1592033521412" duration="47000" />
+      <workItem from="1592302843564" duration="6268000" />
     </task>
     <task id="LOCAL-00001" summary="feat:commit stack code learn.">
       <created>1578209594538</created>
@@ -470,11 +546,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591966799119</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: 提交今日练习">
+      <created>1592032420115</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592032420115</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61615000" />
+    <option name="totallyTimeSpent" value="68696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-4" width="1853" height="1084" extended-state="6" />
@@ -542,29 +625,10 @@
     <MESSAGE value="feat: 提交字符串简单联系" />
     <MESSAGE value="feat: 提交Stack练习" />
     <MESSAGE value="feat: 提交动态规划练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交动态规划练习" />
+    <MESSAGE value="feat: 提交今日练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交今日练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Function.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yang/code/str/StringUnification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReadMe.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yang/code/magic/MagicChams.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -742,10 +806,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-stack-code/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-147" />
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-stack-code/src/main/java/com/yang/stack/book/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -908,7 +972,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-dynamic-programming-code/src/main/java/com/iyang/learndynamicprogrammingcode/array/DeleteAndEarnArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="399">
           <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
         </state>
       </provider>
@@ -922,15 +986,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/str/StrStrCaseMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
+        <state relative-caret-position="1748">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn-point-code/src/main/java/com/iyang/learnpointcode/arr/FindNumberIn2DArrayCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
+        <state relative-caret-position="739">
           <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/IsSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/ChildRenNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-tree-code/src/main/java/com/iyang/learntreecode/balanced/Postorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
