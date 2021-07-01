@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a77970f0-dc72-4b9a-b47b-cc515189e43c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
@@ -137,6 +137,8 @@
       <change beforePath="$PROJECT_DIR$/../learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-str-code/src/main/java/com/iyang/learnstrcode/str/StrToLowerCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learn-str-code/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-str-code/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learn-str-code/src/test/java/com/iyang/learnstrcode/LearnStrCodeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learn-str-code/src/test/java/com/iyang/learnstrcode/LearnStrCodeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iyang/learntreecode/binary/tree/MidTreeMaxDeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iyang/learntreecode/binary/tree/MidTreeMaxDeep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leet-daily-exercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../leet-daily-exercise/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leet-daily-exercise/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leet-daily-exercise/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leet-daily-exercise/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../leet-daily-exercise/mvnw" afterDir="false" />
@@ -194,7 +196,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/iyang/learntreecode/binary/tree/IsSymmetricTree.java" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/iyang/learntreecode/binary/tree/SortedArrayToBST.java&#10;/Users/luohong/Applications/self/sword-to-offer-code/learn-tree-code/src/main/java/com/iyang/learntreecode/binary/tree/IsSymmetricTree.java" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -208,9 +210,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.MidTreeMaxDeep">
-    <configuration name="IsSymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iyang.learntreecode.binary.tree.IsSymmetricTree" />
+  <component name="RunManager" selected="Application.IsBalancedTree">
+    <configuration name="IsBalancedTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learntreecode.binary.tree.IsBalancedTree" />
       <module name="learn-tree-code" />
       <extension name="coverage">
         <pattern>
@@ -222,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MidForTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iyang.learntreecode.binary.tree.MidForTree" />
+    <configuration name="IsSymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learntreecode.binary.tree.IsSymmetricTree" />
       <module name="learn-tree-code" />
       <extension name="coverage">
         <pattern>
@@ -261,6 +263,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iyang.learntreecode.binary.tree.SortedArrayToBST" />
+      <module name="learn-tree-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iyang.learntreecode.binary.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnTreeCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="learn-tree-code" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.iyang.learntreecode.LearnTreeCodeApplication" />
@@ -270,10 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsBalancedTree" />
+        <item itemvalue="Application.SortedArrayToBST" />
         <item itemvalue="Application.MidTreeMaxDeep" />
         <item itemvalue="Application.IsSymmetricTree" />
         <item itemvalue="Application.SameTree" />
-        <item itemvalue="Application.MidForTree" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +305,8 @@
       <updated>1624965539065</updated>
       <workItem from="1624965544942" duration="5899000" />
       <workItem from="1624980912172" duration="84000" />
-      <workItem from="1625042410601" duration="5231000" />
+      <workItem from="1625042410601" duration="7798000" />
+      <workItem from="1625137300357" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 二叉树基础练习">
       <created>1624978803216</created>
@@ -325,38 +342,38 @@
       <screen x="0" y="25" width="1440" height="819" />
     </state>
     <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser/0.25.1440.819@0.25.1440.819" timestamp="1624966324886" />
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1625067781628">
+    <state width="1398" height="119" key="GridCell.Tab.0.bottom" timestamp="1625146741630">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.25.1440.819@0.25.1440.819" timestamp="1625067781628" />
-    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1625067781627">
+    <state width="1398" height="119" key="GridCell.Tab.0.bottom/0.25.1440.819@0.25.1440.819" timestamp="1625146741630" />
+    <state width="1398" height="119" key="GridCell.Tab.0.center" timestamp="1625146741630">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.center/0.25.1440.819@0.25.1440.819" timestamp="1625067781627" />
-    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1625067781627">
+    <state width="1398" height="119" key="GridCell.Tab.0.center/0.25.1440.819@0.25.1440.819" timestamp="1625146741630" />
+    <state width="1398" height="119" key="GridCell.Tab.0.left" timestamp="1625146741629">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.left/0.25.1440.819@0.25.1440.819" timestamp="1625067781627" />
-    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1625067781628">
+    <state width="1398" height="119" key="GridCell.Tab.0.left/0.25.1440.819@0.25.1440.819" timestamp="1625146741629" />
+    <state width="1398" height="119" key="GridCell.Tab.0.right" timestamp="1625146741630">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.right/0.25.1440.819@0.25.1440.819" timestamp="1625067781628" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1625067781630">
+    <state width="1398" height="119" key="GridCell.Tab.0.right/0.25.1440.819@0.25.1440.819" timestamp="1625146741630" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1625132542283">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.25.1440.819@0.25.1440.819" timestamp="1625067781630" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1625067781629">
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.25.1440.819@0.25.1440.819" timestamp="1625132542283" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1625132542164">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.25.1440.819@0.25.1440.819" timestamp="1625067781629" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1625067781629">
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.25.1440.819@0.25.1440.819" timestamp="1625132542164" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1625132542152">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.25.1440.819@0.25.1440.819" timestamp="1625067781629" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1625067781629">
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.25.1440.819@0.25.1440.819" timestamp="1625132542152" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1625132542277">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.25.1440.819@0.25.1440.819" timestamp="1625067781629" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.25.1440.819@0.25.1440.819" timestamp="1625132542277" />
     <state x="229" y="70" key="SettingsEditor" timestamp="1624966100010">
       <screen x="0" y="25" width="1440" height="819" />
     </state>
@@ -365,16 +382,5 @@
       <screen x="0" y="25" width="1440" height="819" />
     </state>
     <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.25.1440.819@0.25.1440.819" timestamp="1624978810154" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/iyang/learntreecode/binary/tree/MidTreeMaxDeep.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

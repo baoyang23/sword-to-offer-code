@@ -1,7 +1,9 @@
 package com.iyang.learntreecode.binary.tree;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 /**
  * ( •_•)                          (•_• )
@@ -38,7 +40,7 @@ public class MidTreeMaxDeep {
         one.left = two;
 
         // maxDeepByTree(deepList,one);
-        int deep = maxDeepByTree(one);
+        int deep = maxDeepByFor(one);
 
 
         System.out.println("树的深度是 : " + deep);
@@ -63,6 +65,38 @@ public class MidTreeMaxDeep {
 
     }
 
+
+    /**
+     * 使用迭代，对每个节点进行 offer / poll 操作.
+     * @param midTreeNode
+     * @return
+     */
+    public int maxDeepByFor(MidTreeNode midTreeNode){
+        Queue<MidTreeNode> queue  = new LinkedList<>();
+        queue.offer(midTreeNode);
+
+        int deep = 0;
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+
+            while (size > 0){
+                MidTreeNode node = queue.poll();
+                if(node.right != null){
+                    queue.offer(node.right);
+                }
+                if(node.left != null){
+                    queue.offer(node.left);
+                }
+                size --;
+            }
+
+            deep ++;
+        }
+
+
+        System.out.println("最大深度是 ---> " + deep);
+        return deep;
+    }
 
 
 }
