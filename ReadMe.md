@@ -14,7 +14,18 @@
 
    记录做过的并且有领悟的算法以及学习的知识.
 
+#### 模块说明
 
+项目名字|说明
+---|---:
+learn-dynamic-planning|动态规划
+learn-linked-code|linked
+learn-queue-code|队列
+learn-sort-code|排序
+learn-stack-code|栈
+learn-str-code|字符
+learn-tree-code|树
+leet-daily-exercise|每日练习
 
 
 
