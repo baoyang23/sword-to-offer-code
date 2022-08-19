@@ -25,6 +25,8 @@ public class TwoNextNodeReplace {
         listNode.next = head;
         ListNode temp = listNode;
         while (temp.next != null && temp.next.next != null) {
+
+            // 临时节点存储
             ListNode start = temp.next;
             ListNode end = temp.next.next;
 
