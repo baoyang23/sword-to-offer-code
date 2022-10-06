@@ -49,7 +49,7 @@ public class StrReverseOnlyLetters {
     public static void reverseByStack(){
 
         String s = "Test1ng-Leet=code-Q!";
-        Stack<Character> letters = new Stack<>();
+        Stack<Character> letters = new Stack<Character>();
 
         for(char c : s.toCharArray()){
 
