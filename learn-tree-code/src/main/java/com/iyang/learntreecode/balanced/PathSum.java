@@ -39,7 +39,7 @@ public class PathSum {
     public int pathNum(IsTreeNode root, int sum){
 
         // key 是前缀和, value是大小为key的前缀和出现的次数
-        Map<Integer,Integer> prefixSumCount = new HashMap<>();
+        Map<Integer,Integer> prefixSumCount = new HashMap<Integer, Integer>();
         prefixSumCount.put(0,1);
 
         // 前缀和的递归回溯思想

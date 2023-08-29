@@ -66,7 +66,7 @@ public class IsSymmetric {
      * @return
      */
     private boolean checkByFor(IsTreeNode u,IsTreeNode v){
-        Queue<IsTreeNode> q = new LinkedList<>();
+        Queue<IsTreeNode> q = new LinkedList<IsTreeNode>();
         q.offer(u);
         q.offer(v);
         while (!q.isEmpty()){
